@@ -1,0 +1,46 @@
+h1{
+    color: tomato;
+}
+
+#titulo{
+    color: brown;
+}
+
+.texto{
+    color: coral;
+    border: 4px red solid
+}
+
+p.especial{
+    color: slateblue;
+}
+
+div p {
+    color: gold;
+}
+
+div h2, div h3 {
+    color: green;
+}
+
+* {
+    font-size: 24px;
+    color: black;
+}
+
+.texto{
+    border-radius: 5px;
+    border-style: outset;
+    border-color: brown;
+    border-width: 2rem;
+}
+
+
+/* Esto es un comentario */
+
+/* Esto es un comentario con muchas lineas
+muchas
+muchas
+ */
+
+
