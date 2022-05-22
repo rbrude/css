@@ -35,6 +35,20 @@ div h2, div h3 {
     border-width: 2rem;
 }
 
+#fondo{
+    background-color: rgba(0, 169, 241, 0.1);
+    opacity: 1; 
+    background-image: url("../Images/descarga.jfif");
+    /* opacity abarca a todo el componente y no solo al fondo*/
+    height: 600px;
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background: red url("../Images/descarga.jfif") repeat-x center center / 100px 200px;
+}
+
+/* probar background con proyecto o imagen de codo a codo */
+
 
 /* Esto es un comentario */
 
